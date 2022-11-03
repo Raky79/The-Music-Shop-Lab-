@@ -3,12 +3,12 @@ import styled from 'styled-components';
 
 
 const Button = styled.button `
-font size: 1em;
-padding: 1em;
-margin: 0.5em;
-color:#A91079;
+font-size : 1em;
+padding : 1em;
+margin : 0.5em;
+color : #A91079;
 border: 2px solid #A91079;
-background: #F806CC;
+background : #F806CC;
 &:hover {
   background: #96BAFF;
 }

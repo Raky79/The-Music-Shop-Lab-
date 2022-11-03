@@ -8,16 +8,16 @@ import styled from 'styled-components';
 const Title = styled.h1`
 text-align: center;
 font-size: 2em;
-color: #A91079;
+color: #F806CC;
 background-color:#2E0249;
+font-family: "Agrandir Sans";
 `
-
 
 
 function App() {
   return (
     <>
-    <Title>Music Shop</Title>
+    <Title>⚡️Valhalla Records⚡️</Title>
     <MusicShopContainer/>
     </>
   );
